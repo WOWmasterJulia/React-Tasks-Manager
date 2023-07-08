@@ -10,16 +10,16 @@
 }
 
 .btn.isSelected {
-    background-color: #1976d2;
+    background-color: #19d251;
     color: #fff;
 }
 
 .btn:hover {
-    background-color: #1976d2;
+    background-color: #19d251;
     color: #fff;
 }
 
 .btn:active {
-    background-color: #1565c0;
+    background-color: #19d251;
     color: #fff;
 }
